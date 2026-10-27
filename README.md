@@ -1,2 +1,1 @@
-# holbertonschool-shell
-Project 1 of Shell Basics
+This is a project on Shell Commands and Functionality
